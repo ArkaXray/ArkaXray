@@ -1,7 +1,7 @@
-<!-- 💠 Profile README for AmirHoosin Fereydouni (ArkaXray) -->
+<!-- ⚡ Profile README for AmirHoosin Fereydouni aka ArkaXray -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1200&color=2FA4E7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+AmirHoosin+Fereydouni;aka+ArkaXray;Welcome+to+my+Cyber+World+🌌" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1200&color=2FA4E7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+AmirHoosin+Fereydouni;aka+ArkaXray;Full+Stack+Developer+%7C+Cyber+Architect;Welcome+to+My+World+🌌" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,11 +11,10 @@
 ---
 
 ### 🧠 About Me  
-> 🎯 A passionate developer with a vision to build futuristic web ecosystems.  
-> ⚡ Blending performance, aesthetics, and functionality in every line of code.  
-> 💙 Exploring backend, networking, and system design like a cyber architect.  
-> 🧩 Currently crafting amazing tools with the <b>BluTeam</b>.  
-> 🪶 “Write code that feels alive.”
+> 🧩 A developer who loves crafting scalable and aesthetic digital products.  
+> ⚙️ Passionate about backend architectures, real-time systems, and network performance.  
+> 💙 Blending creativity and logic — because code should both work *and* look beautiful.  
+> 🌌 Known as <b>ArkaXray</b> — for seeing through complex systems and turning ideas into structure.  
 
 ---
 
@@ -26,21 +25,40 @@
 
 ---
 
+### 🚀 My Creations & Projects
+> ⚡ Each project reflects a different aspect of who I am as a developer — from performance engineering to design precision.
+
+#### 💠 BluTeam  
+A collective of developers and engineers focused on **web development, cloud infrastructure, and network systems**.  
+We build modern and scalable solutions for web, API, and cloud platforms.
+
+#### 🧰 BluSMSPlus  
+A custom plugin for **WordPress** that enables **pattern-based SMS sending** without complex JSON templates.  
+Optimized for flexibility and ease of integration.
+
+#### 🌐 BluDNS  
+A **high-performance DNS resolver** built for gamers and developers.  
+Focused on **low latency**, **anti-censorship**, and **reliability** across networks.
+
+#### 🔒 Private API Systems  
+Custom REST & WebSocket APIs for handling **auth, payments, and analytics**.  
+Built with **Node.js, Laravel, and Express** — focused on security and scalability.
+
+#### 🧠 DevOps & Automation Tools  
+Developed a series of **server automation scripts** for cloud deployment, monitoring, and scaling.  
+Used technologies like **Docker, Nginx, and Linux automation**.
+
+#### 🎨 Frontend & UI Systems  
+Crafted interactive and responsive interfaces using **React, Next.js, and Tailwind CSS**.  
+Designed for **high-performance** and **pixel-perfect experiences**.
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2FA4E7&icon_color=2FA4E7&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=2FA4E7&fire=2FA4E7&currStreakLabel=2FA4E7"/>
 </p>
-
----
-
-### 🚀 Featured Creations
-| 🔹 Project | 💬 Description |
-|------------|----------------|
-| 🌩️ [BluCloud](https://blustore.cloud/) | Next-Gen Smart VPN & Anti-Ping Cloud System |
-| ⚡ [BluTeam](https://github.com/bluteam) | DevOps, Web, and Cloud Infrastructure Studio |
-| 💬 [BluSMSPlus](https://github.com/YOUR_USERNAME/BluSMSPlus) | Advanced SMS Plugin for WordPress |
-| 🧠 [BluDNS](#) | High-Speed DNS Resolver for Gamers & Security |
 
 ---
 
@@ -54,8 +72,8 @@
 ---
 
 <h3 align="center">
-  🌌 <b>“Turning imagination into scalable digital reality.”</b>  
-  <br>⚙️ <i>Designed & coded by ArkaXray</i>
+  🌌 <b>“Coding is my language — architecture is my mindset.”</b>  
+  <br>⚙️ <i>Designed & engineered by ArkaXray</i>
 </h3>
 
 <p align="center">
