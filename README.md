@@ -54,11 +54,9 @@ Designed for **high-performance** and **pixel-perfect experiences**.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2FA4E7&icon_color=2FA4E7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=2FA4E7&fire=2FA4E7&currStreakLabel=2FA4E7"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArkaXray&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2FA4E7&icon_color=2FA4E7&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ArkaXray&theme=radical&hide_border=true&background=0D1117&ring=2FA4E7&fire=2FA4E7&currStreakLabel=2FA4E7"/>
+
 
 ---
 
