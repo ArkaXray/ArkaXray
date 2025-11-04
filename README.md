@@ -1,20 +1,26 @@
-<!-- ⚡ Profile README for AmirHoosin Fereydouni aka ArkaXray -->
+<!-- 💠 ArkaXray Cyber Elite Edition | Profile README -->
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/2YkV5P8/cyber-banner-arkaxray.png" alt="ArkaXray Banner" width="100%"/>
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1200&color=2FA4E7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+AmirHoosin+Fereydouni;aka+ArkaXray;Full+Stack+Developer+%7C+Cyber+Architect;Welcome+to+My+World+🌌" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+AmirHoosin+Fereydouni;aka+ArkaXray;Full+Stack+Developer+%7C+Cyber+Architect;Welcome+to+My+Digital+Realm+🌌" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  💻 <b>Full Stack Web Developer</b> | ⚙️ <b>Backend & Cloud Engineer</b> | 🌐 <b>Founder of <span style="color:#2FA4E7;">BluCloud</span></b>
+  💻 <b>Full Stack Developer</b> | ⚙️ <b>Backend & Cloud Engineer</b> | 🌐 <b>Founder of <span style="color:#00C2FF;">BluCloud</span></b>
 </p>
 
 ---
 
-### 🧠 About Me  
-> 🧩 A developer who loves crafting scalable and aesthetic digital products.  
-> ⚙️ Passionate about backend architectures, real-time systems, and network performance.  
-> 💙 Blending creativity and logic — because code should both work *and* look beautiful.  
-> 🌌 Known as <b>ArkaXray</b> — for seeing through complex systems and turning ideas into structure.  
+### 🧠 About Me
+> ⚡ A cyber architect obsessed with speed, scalability, and style.  
+> 💙 I merge logic with creativity — turning digital chaos into structure.  
+> 🧩 Passionate about backend systems, real-time APIs, and automation.  
+> 🚀 Currently building next-gen web platforms with **BluTeam**.  
+> 🎯 “Code is not just logic — it’s art in motion.”
 
 ---
 
@@ -25,53 +31,38 @@
 
 ---
 
-### 🚀 My Creations & Projects
-> ⚡ Each project reflects a different aspect of who I am as a developer — from performance engineering to design precision.
-
-#### 💠 BluTeam  
-A collective of developers and engineers focused on **web development, cloud infrastructure, and network systems**.  
-We build modern and scalable solutions for web, API, and cloud platforms.
-
-#### 🧰 BluSMSPlus  
-A custom plugin for **WordPress** that enables **pattern-based SMS sending** without complex JSON templates.  
-Optimized for flexibility and ease of integration.
-
-#### 🌐 BluDNS  
-A **high-performance DNS resolver** built for gamers and developers.  
-Focused on **low latency**, **anti-censorship**, and **reliability** across networks.
-
-#### 🔒 Private API Systems  
-Custom REST & WebSocket APIs for handling **auth, payments, and analytics**.  
-Built with **Node.js, Laravel, and Express** — focused on security and scalability.
-
-#### 🧠 DevOps & Automation Tools  
-Developed a series of **server automation scripts** for cloud deployment, monitoring, and scaling.  
-Used technologies like **Docker, Nginx, and Linux automation**.
-
-#### 🎨 Frontend & UI Systems  
-Crafted interactive and responsive interfaces using **React, Next.js, and Tailwind CSS**.  
-Designed for **high-performance** and **pixel-perfect experiences**.
+### 🚀 My Creations
+| 🔹 Project | 💬 Description |
+|------------|----------------|
+| 🌐 **BluTeam** | DevOps, Web, and Cloud Infrastructure Studio |
+| 💬 **BluSMSPlus** | Pattern-based SMS Plugin for WordPress |
+| 🌩️ **BluDNS** | High-Performance DNS Resolver for Gamers |
+| ⚙️ **Private APIs** | Secure REST & WebSocket systems built with Node & Laravel |
+| 🧠 **DevOps Tools** | Docker, Nginx & Linux automation scripts |
+| 🎨 **Frontend Systems** | Modern UIs with React, Next.js, and Tailwind |
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArkaXray&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2FA4E7&icon_color=2FA4E7&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ArkaXray&theme=radical&hide_border=true&background=0D1117&ring=2FA4E7&fire=2FA4E7&currStreakLabel=2FA4E7"/>
-
+### 📊 GitHub Stats
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArkaXray&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=ArkaXray&theme=tokyonight&hide_border=true&background=000000&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-1A8CD8?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-00C2FF?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/ArkaXray"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 <h3 align="center">
-  🌌 <b>“Coding is my language — architecture is my mindset.”</b>  
-  <br>⚙️ <i>Designed & engineered by ArkaXray</i>
+  ⚙️ <b>Powered by ArkaXray</b> — <i>Cyber Architect & Creator of BluCloud</i>  
+  <br>🌌 “Welcome to the digital frontier.”
 </h3>
 
 <p align="center">
@@ -79,5 +70,6 @@ Designed for **high-performance** and **pixel-perfect experiences**.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2FA4E7" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ArkaXray&style=for-the-badge&color=00C2FF" alt="Profile Views"/>
 </p>
+
