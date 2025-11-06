@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="[https://i.ibb.co/2YkV5P8/cyber-banner-arkaxray.png](https://dkstatics-public.digikala.com/digikala-adservice-banners/379fa71c8de90fa15e0fffd4c3b9a03e8dad3e7b_1761545795.gif?x-oss-process=image?x-oss-process=image/format,webp)" alt="ArkaXray Banner" width="100%"/>
+  <img src="https://dkstatics-public.digikala.com/digikala-adservice-banners/379fa71c8de90fa15e0fffd4c3b9a03e8dad3e7b_1761545795.gif?x-oss-process=image?x-oss-process=image/format,webp" alt="ArkaXray Banner" width="100%"/>
 </p>
 
 <h1 align="center">
